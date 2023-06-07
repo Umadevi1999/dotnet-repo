@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'abitha'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_59858C9E467541A1B72821E5F8171942 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A0235A5060F54FF1A1279D0521314707 }}
           package: .
